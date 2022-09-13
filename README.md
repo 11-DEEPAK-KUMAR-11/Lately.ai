@@ -6,7 +6,7 @@ Unit-3 project - https://app.lately.ai/
 
 - 🌱 Najrin Rashid Shah -> **Pricing Page + About**
 
-- 💬 Deepak Kumar -> **Sign Up page + Help Center**
+- 💬 Deepak Kumar -> **Sign Up page & functionality  + Resources section page**
 
 - 📫 Tushar Tyagi -> **Log In + Register + Payment**
 
